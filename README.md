@@ -24,7 +24,7 @@ I also have 1500 hours on Dota 2 and Valorant each... but that shouldn't go on m
   <i>Here are my contacts!</i>
 
 <p align="center">
-<a href= "https://github.com/OscarKhaing/"><img src="https://img.icons8.com/material-outlined/27/000000/github.png"/></a>
+<a href= "https://github.com/OscarKhaing/"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
 <a href= "https://www.linkedin.com/in/oscar-khaing/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "akhaing@ucsd.edu"><img src="https://img.icons8.com/material-outlined/30/000000/email.png"/></a>
 <!-- <a href= "https://okhaing.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
