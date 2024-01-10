@@ -9,7 +9,7 @@ Currently working on:
 - :pear: Recognizing plant sexes with AI/ML
 - ⚛️ Writing documentation of Perl scripts for molecular data analysis
 - :speech_balloon: Hosting technical events for fellow students
-- :sweat_smile: Finding internships
+<!--- - :sweat_smile: Finding internships --->
 
 My interests:
 - :runner: I like swimming :swimmer: badminton & tennis :tennis: and pool :8ball:
