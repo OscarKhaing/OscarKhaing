@@ -1,16 +1,22 @@
 ### Hi there 👋
 
+#### I'm an aspiring Full-Stack developer :iphone: and Data Scientist :floppy_disk:
+
+UCSD Computer Science undergrad in the Bioinformatics Specialization track, though focusing on software for now.
+
+Currently working on:
+- :computer: A full stack web app 
+- :pear: Recognizing plant sexes with AI/ML
+- ⚛️ Writing documentation of Perl scripts for molecular data analysis
+- :speech_balloon: Hosting technical events for fellow students
+- :sweat_smile: Finding internships
+
+My interests:
+- :runner: I like swimming :swimmer: badminton & tennis :tennis: and pool :8ball:
+
+
+
+
 <!--
-**OscarKhaing/OscarKhaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I also have 1500 hours on Dota 2 and Valorant each... but that shouldn't go on my profile so I put it as comment instead.
 -->
