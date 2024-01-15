@@ -5,6 +5,7 @@
 UCSD Computer Science undergrad in the Bioinformatics Specialization track, though focusing on software for now.
 
 Currently working on:
+- 📈 Learning more about Finance
 - :computer: A full stack web app 
 - :pear: Recognizing plant sexes with AI/ML
 - ⚛️ Writing documentation of Perl scripts for molecular data analysis
