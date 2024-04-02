@@ -2,13 +2,17 @@
 
 #### I'm an aspiring Full-Stack developer :iphone: and Data Scientist :floppy_disk:
 
-UCSD Computer Science undergrad in the Bioinformatics Specialization track, though focusing on software for now.
+UCSD Computer Science undergrad in the Bioinformatics Specialization track, though focusing on software and ML for now.
+
+Check out my past work in pinned repos!
+
+---
 
 Currently working on:
 - 📈 Learning more about Finance
 - :computer: A full stack web app 
 - :pear: Recognizing plant sexes with AI/ML
-- ⚛️ Writing documentation of Perl scripts for molecular data analysis
+<!--- - ⚛️ Writing documentation of Perl scripts for molecular data analysis --->
 - :speech_balloon: Hosting technical events for fellow students
 <!--- - :sweat_smile: Finding internships --->
 
