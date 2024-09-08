@@ -2,22 +2,22 @@
 
 #### I'm an aspiring Full-Stack developer :iphone: and Data Scientist :floppy_disk:
 
-UCSD Computer Science undergrad in the Bioinformatics Specialization track, though focusing on software and ML for now.
+UCSD Computer Science 3rd year, focusing on software and AI applications.
 
-Check out my past work in pinned repos!
+Check out my past work in pinned repos! Let me know if you like what you see :D
 
 ---
 
 Currently working on:
-- 📈 Learning more about Finance
-- :computer: A full stack web app 
-- :pear: Recognizing plant sexes with AI/ML
+- 📈 Deploying fine-tuned LLM that transforms natural language to SQL queries for financial data
+- :computer: A full stack web app in Django for HKN honors society's operations at UCSD
+<!--- - :pear: Recognizing plant sexes with AI/ML --->
 <!--- - ⚛️ Writing documentation of Perl scripts for molecular data analysis --->
-- :speech_balloon: Hosting technical events for fellow students
-<!--- - :sweat_smile: Finding internships --->
+- :speech_balloon: Hosting ML-related technical events for fellow students
+- :sweat_smile: Finding an internship
 
 My interests:
-- :runner: I like swimming :swimmer: badminton & tennis :tennis: and pool :8ball:
+- I like swimming :swimmer: badminton & tennis :tennis: pool :8ball: and enjoying different cuisines :ramen: 
 
 <!--
 I also have 1500 hours on Dota 2 and Valorant each... but that shouldn't go on my profile so I put it as comment instead.
