@@ -4,7 +4,8 @@
 
 UCSD Computer Science 3rd year, focusing on software and AI applications.
 
-Check out my past work in pinned repos! Let me know if you like what you see :D
+
+Check out my current work below and past work in pinned repos! Let me know if you like to collaborate on implementing amazing and complex ideas!
 
 ---
 
