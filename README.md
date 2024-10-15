@@ -9,7 +9,7 @@ Check out my past work in pinned repos! Let me know if you like what you see :D
 ---
 
 Currently working on:
-- 📈 Deploying fine-tuned LLM that transforms natural language to SQL queries for financial data
+- 📈 Deploying fine-tuned LLM that transforms natural language to SQL queries for financial data: [Github Repo](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)
 - :computer: A full stack web app in Django for HKN honors society's operations at UCSD
 - :speech_balloon: Hosting ML-related technical events for fellow students
 - :sweat_smile: Finding an internship
