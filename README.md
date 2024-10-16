@@ -11,8 +11,9 @@ Check out my current work below and past work in pinned repos! Let me know if yo
 
 Currently working on:
 - 📈 Deploying [LLM-powered chatbot](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL) that answers natural language queries with SQL-retrieved financial data from a database
-- :computer: A [full stack web app](https://github.com/HKN-UCSD/hkn-portal) with Django for IEEE-HKN honors society's every-day operations at UC San Diego
+- :computer: A [full-stack web app](https://github.com/HKN-UCSD/hkn-portal) with Django for IEEE-HKN honors society's every-day operations at UC San Diego
 - :speech_balloon: Hosting ML-related technical events for fellow students
+- :computer: Another [full-stack blog website](https://github.com/OscarKhaing/Full-Stack_Blog) with Django as a personal project 
 - :sweat_smile: Finding an internship
 <!--- - :pear: Recognizing plant sexes with AI/ML --->
 <!--- - ⚛️ Writing documentation of Perl scripts for molecular data analysis --->
