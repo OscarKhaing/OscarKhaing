@@ -14,8 +14,8 @@ Currently working on:
 - :computer: A [full-stack web app](https://github.com/HKN-UCSD/hkn-portal) with Django for IEEE-HKN honors society's every-day operations at UC San Diego
 - :speech_balloon: Hosting ML-related technical events for fellow students
 - :globe_with_meridians: Learning Computer Networks Design and building [Network Protocols (TCP/IP) in C](https://github.com/OscarKhaing/Computer-Networks)
-<!--- - :computer: Another [full-stack blog website](https://github.com/OscarKhaing/Full-Stack_Blog) with Django as a personal project --->
 - :sweat_smile: Finding an internship
+<!--- - :computer: Another [full-stack blog website](https://github.com/OscarKhaing/Full-Stack_Blog) with Django as a personal project --->
 <!--- - :pear: Recognizing plant sexes with AI/ML --->
 <!--- - ⚛️ Writing documentation of Perl scripts for molecular data analysis --->
 
