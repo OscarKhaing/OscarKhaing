@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an aspiring Full-Stack developer :iphone: and Data Scientist :floppy_disk:
+#### I'm a Full-Stack developer :iphone: with focus on AI and Data integration :floppy_disk:
 
 UCSD Computer Science 3rd year, focusing on software and AI applications.
 
