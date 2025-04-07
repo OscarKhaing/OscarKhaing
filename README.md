@@ -5,7 +5,7 @@
 
 #### I'm a Full-Stack developer :iphone: with focuses on AI/ML and Data integration :floppy_disk:
 
-I've been a major contributor to 4 software project teams and 1 AI research team as of Feb 2025.
+I've been a major contributor to 5 software project teams and 1 AI research team as of Feb 2025.
 
 
 
@@ -15,7 +15,8 @@ Check out what I've worked on. Let me know if you'd like to collaborate on new i
 
 ---
 
-Current as of Feb 2025: 
+Current as of Feb 2025:
+- :computer: Shipping out [aako.world](aako.world)
 - :computer: Contributing features to [IEEE-HKN honors society's portal](https://github.com/HKN-UCSD/hkn-portal) at UC San Diego with Svelte/Django
 - :computer: Contributing features to [Computer Science and Engineering Society's portal](https://github.com/CSES-UCSD/cses_webdev) at UC San Diego with React/MangoDB
 - :speech_balloon: Hosting ML-related technical workshop events for fellow students
@@ -25,10 +26,10 @@ Current as of Feb 2025:
 - :sweat_smile: Finding an internship --->
 
 Previous work:
-- [Matchmaker](https://github.com/s-fereidooni/CSE151A_matchmaker): Machine Learning model with simple webpage UI that predicts compatibility between 2 participants using textual context.
-- [Successorator App](https://github.com/CSE-110-Winter-2024/project-team-12): To-do List App; Android Studio and SQLite
 - **[Text-2-SQL Database Query Engine](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)**: Executes generated SQL from natural language questions and returning financial data from database; achieved significant resulting accuracy from testing and incorporating techniques from S.O.T.A. papers in Text-2-SQL research space; Python, FastAPI, Uvicorn, Streamlit, OpenAI API, MySQL
 - [LingoLab Research Paper Reader](https://github.com/SithuSoe04/lingolab): Interactive Research Paper PDF Viewer that generates and stores definitions of difficult words for easier comprehension; React, Python, Firebase
+- [Matchmaker](https://github.com/s-fereidooni/CSE151A_matchmaker): Machine Learning model with simple webpage UI that predicts compatibility between 2 participants using textual context.
+- [Successorator App](https://github.com/CSE-110-Winter-2024/project-team-12): To-do List App; Android Studio and SQLite
 
 Competitive CS awards:
 - "Most Technically Impressive" and "3rd place" in Stempad CSES Hackathon @ UCSD, Feb 2025
