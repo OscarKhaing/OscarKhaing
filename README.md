@@ -16,7 +16,7 @@ Check out what I've worked on. Let me know if you'd like to collaborate on new i
 ---
 
 Current as of Feb 2025:
-- :computer: In 4 days, shipped a landing website for a geo-bound mp3 sharing social media application, [aako.world]([aako.world](https://aako.world/)), and staying on the team
+- :computer: In 4 days, shipped a landing website for a geo-bound mp3 sharing social media application, [aako.world](https://aako.world/), and staying on the team
 - :computer: Contributing features to [IEEE-HKN honors society's portal](https://github.com/HKN-UCSD/hkn-portal) at UC San Diego with Svelte/Django
 - :computer: Contributing features to [Computer Science and Engineering Society's portal](https://github.com/CSES-UCSD/cses_webdev) at UC San Diego with React/MangoDB
 - :speech_balloon: Hosting ML-related technical workshop events for fellow students
