@@ -7,7 +7,9 @@
 
 I've been a major contributor to 5 software project teams and 1 AI research team as of Feb 2025.
 
-
+<a href="https://oscarkhaing.github.io/">
+  <img src="https://raw.githubusercontent.com/OscarKhaing/oscarkhaing.github.io/refs/heads/main/src/assets/portfolio-button.svg" alt="Visit My Portfolio" width="220">
+</a>
 
 &nbsp;
 
