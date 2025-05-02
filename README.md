@@ -9,7 +9,10 @@ I've been a major contributor to 5 software project teams and 1 AI research team
 
 <a href="https://oscarkhaing.github.io/">
   <img src="https://raw.githubusercontent.com/OscarKhaing/oscarkhaing.github.io/refs/heads/main/src/assets/portfolio-button.svg" alt="Visit My Portfolio" width="220">
-</a>
+</a>&nbsp;
+
+
+#### [Portfolio source code ](https://github.com/oscarkhaing/oscarkhaing.github.io): React + Vite + SWC for fast build time
 
 &nbsp;
 
@@ -23,12 +26,9 @@ Current as of Feb 2025:
 - :computer: Contributing features to [Computer Science and Engineering Society's portal](https://github.com/CSES-UCSD/cses_webdev) at UC San Diego with React/MangoDB
 - :speech_balloon: Hosting ML-related technical workshop events for fellow students
 
-
-<!--- - :computer: A personal [full-stack blog website](https://github.com/OscarKhaing/Full-Stack_Blog) with Django stack as a personal project
-- :sweat_smile: Finding an internship --->
-
 Previous work:
 - **[Text-2-SQL Database Query Engine](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)**: Executes generated SQL from natural language questions and returning financial data from database; achieved significant resulting accuracy from testing and incorporating techniques from S.O.T.A. papers in Text-2-SQL research space; Python, FastAPI, Uvicorn, Streamlit, OpenAI API, MySQL
+- [VTABS Blackjack Agent](https://github.com/OscarKhaing/Gambler-Gambit): Reinforcement learning agent trained via Q-learning to play Vegas Triple Attack Blackjack Switch, optimizing betting and in-game actions using a decision network to maximize winnings and minimize busts under uncertainty; Python, Monte Carlo Simulation, Q-Learning.
 - [LingoLab Research Paper Reader](https://github.com/SithuSoe04/lingolab): Interactive Research Paper PDF Viewer that generates and stores definitions of difficult words for easier comprehension; React, Python, Firebase
 - [Matchmaker](https://github.com/s-fereidooni/CSE151A_matchmaker): Machine Learning model with simple webpage UI that predicts compatibility between 2 participants using textual context.
 - [Successorator App](https://github.com/CSE-110-Winter-2024/project-team-12): To-do List App; Android Studio and SQLite
