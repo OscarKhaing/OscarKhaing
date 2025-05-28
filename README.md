@@ -28,15 +28,21 @@ Current as of Feb 2025:
 - :speech_balloon: Hosting ML-related technical workshop events for fellow students
 
 Previous work:
-- **[Text-2-SQL Database Query Engine](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)**: Executes generated SQL from natural language questions and returning financial data from database; achieved significant resulting accuracy from testing and incorporating techniques from S.O.T.A. papers in Text-2-SQL research space; Python, FastAPI, Uvicorn, Streamlit, OpenAI API, MySQL
 - [VTABS Blackjack Agent](https://github.com/OscarKhaing/Gambler-Gambit): Reinforcement learning agent trained via Q-learning to play Vegas Triple Attack Blackjack Switch, optimizing betting and in-game actions using a decision network to maximize winnings and minimize busts under uncertainty; Python, Monte Carlo Simulation, Q-Learning.
 - [LingoLab Research Paper Reader](https://github.com/SithuSoe04/lingolab): Interactive Research Paper PDF Viewer that generates and stores definitions of difficult words for easier comprehension; React, Python, Firebase
+- **[Text-2-SQL Database Query Engine](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)**: Executes generated SQL from natural language questions and returning financial data from database; achieved significant resulting accuracy from testing and incorporating techniques from S.O.T.A. papers in Text-2-SQL research space; Python, FastAPI, Uvicorn, Streamlit, OpenAI API, MySQL
+- [BTTAI Fellowship Models & Learning](https://github.com/OscarKhaing/BTTAI-Fellowship-ML): Collection of machine learning projects, notebooks, and deployment-ready pipelines built during the Break Through Tech AI/ML Fellowship, including full life-cycle projects in model explainability, data engineering, and data science.
 - [Matchmaker](https://github.com/s-fereidooni/CSE151A_matchmaker): Machine Learning model with simple webpage UI that predicts compatibility between 2 participants using textual context.
 - [Successorator App](https://github.com/CSE-110-Winter-2024/project-team-12): To-do List App; Android Studio and SQLite
 
+Fellowships:
+- 🤖 Selected as a Break Through Tech AI/ML Fellow (Cornell @ UCLA), where I developed real-world AI/ML projects with mentorship from PIMCO engineers.
+
 Competitive CS awards:
 - "Most Technically Impressive" and "3rd place" in Stempad CSES Hackathon @ UCSD, Feb 2025
-- "4th Place" in Jane Street Estimathon @ UCSD, 2024 
+- "4th Place" in Jane Street Estimathon @ UCSD, 2024
+
+
 
 <!--- - :globe_with_meridians: Learning Computer Networks Design and building [Network Protocols (TCP/IP) in C](https://github.com/OscarKhaing/Computer-Networks)--->
 <!--- - :pear: Recognizing plant sexes with AI/ML and labeling/masking images --->
