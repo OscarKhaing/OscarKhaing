@@ -24,6 +24,7 @@ Current as of Feb 2025:
 - 🌨️ Developing [ML Glassbox](https://oscarkhaing.github.io/ml-glassbox-frontend/), an interactive dashboard for all of my ML models projects that I've deployed on Cloud distributed systems (GCP, Azure, AWS). 
 - :computer: In 4 days, shipped a landing website for a geo-bound mp3 sharing social media application, [aako.world](https://aako.world/), and staying on the team
 - :computer: Contributing features to [IEEE-HKN honors society's portal](https://github.com/HKN-UCSD/hkn-portal) at UC San Diego with Svelte/Django
+- 🥗 [HAB Prediction Website](https://github.com/HKN-UCSD/HAB-Project-Website/): Full-stack deployment of a twice-weekly prediction site for monitoring harmful algal blooms, using FastAPI backend on Google Cloud Run with Cloud Scheduler for automation. (Team project via IEEE HKN)
 - :computer: Contributing features to [Computer Science and Engineering Society's portal](https://github.com/CSES-UCSD/cses_webdev) at UC San Diego with React/MangoDB
 - :speech_balloon: Hosting ML-related technical workshop events for fellow students
 
