@@ -12,7 +12,8 @@ I've been a major contributor to 5 software project teams and 1 AI research team
 </a>&nbsp;
 
 
-#### [Portfolio source code ](https://github.com/oscarkhaing/oscarkhaing.github.io): React + Vite + SWC for fast build time
+ #### [Portfolio source code ](https://github.com/oscarkhaing/oscarkhaing.github.io) 
+ <!-- React + Vite + SWC for fast build time-->
 
 &nbsp;
 
@@ -21,14 +22,18 @@ Check out what I've worked on. Let me know if you'd like to collaborate on new i
 ---
 
 Current as of Feb 2025:
-- 🌨️ Developing [ML Glassbox](https://oscarkhaing.github.io/ml-glassbox-frontend/), an interactive dashboard for all of my ML models projects that I've deployed on Cloud distributed systems (GCP, Azure, AWS). 
-- :computer: In 4 days, shipped a landing website for a geo-bound mp3 sharing social media application, [aako.world](https://aako.world/), and staying on the team
+<!-- - 🌨️ Developing [ML Glassbox](https://oscarkhaing.github.io/ml-glassbox-frontend/), an interactive dashboard for all of my ML models projects that I've deployed on Cloud distributed systems (GCP, Azure, AWS). -->
+- :computer: Committing to Norra Inc. as Software Developer to create hospital administrative app for tracking healthcare equipments.
+- Searching for 2026 Full-Time -- please contact me @[LinkedIn](https://www.linkedin.com/in/oscar-khaing/) if interested 
+
+
+
+Previous work:
+- :computer: In 4 days, shipped a Svelte landing website for a geo-bound AR sharing social media application, [aako.world](https://aako.world/), and fixed 15 bugs in frontend SwiftUI.
 - :computer: Contributing features to [IEEE-HKN honors society's portal](https://github.com/HKN-UCSD/hkn-portal) at UC San Diego with Svelte/Django
 - 🥗 [HAB Prediction Website](https://github.com/HKN-UCSD/HAB-Project-Website/): Full-stack deployment of a twice-weekly prediction site for monitoring harmful algal blooms, using FastAPI backend on Google Cloud Run with Cloud Scheduler for automation. (Team project via IEEE HKN)
 - :computer: Contributing features to [Computer Science and Engineering Society's portal](https://github.com/CSES-UCSD/cses_webdev) at UC San Diego with React/MangoDB
 - :speech_balloon: Hosting ML-related technical workshop events for fellow students
-
-Previous work:
 - [VTABS Blackjack Agent](https://github.com/OscarKhaing/Gambler-Gambit): Reinforcement learning agent trained via Q-learning to play Vegas Triple Attack Blackjack Switch, optimizing betting and in-game actions using a decision network to maximize winnings and minimize busts under uncertainty; Python, Monte Carlo Simulation, Q-Learning.
 - [LingoLab Research Paper Reader](https://github.com/SithuSoe04/lingolab): Interactive Research Paper PDF Viewer that generates and stores definitions of difficult words for easier comprehension; React, Python, Firebase
 - **[Text-2-SQL Database Query Engine](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)**: Executes generated SQL from natural language questions and returning financial data from database; achieved significant resulting accuracy from testing and incorporating techniques from S.O.T.A. papers in Text-2-SQL research space; Python, FastAPI, Uvicorn, Streamlit, OpenAI API, MySQL
