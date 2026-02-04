@@ -5,7 +5,7 @@
 
 #### I'm a Full-Stack developer :iphone: with focuses on AI/ML and Data integration :floppy_disk:
 
-I've been a major contributor to 5 software project teams and 1 AI research team as of Feb 2025.
+I've been a major contributor to 5 software project teams and 1 AI research team as of Jan 2026.
 
 <a href="https://oscarkhaing.github.io/">
   <img src="https://raw.githubusercontent.com/OscarKhaing/oscarkhaing.github.io/refs/heads/main/src/assets/portfolio-button.svg" alt="Visit My Portfolio" width="220">
@@ -21,14 +21,14 @@ Check out what I've worked on. Let me know if you'd like to collaborate on new i
 
 ---
 
-Current as of Feb 2025:
+Current as of Jan 2026:
 <!-- - 🌨️ Developing [ML Glassbox](https://oscarkhaing.github.io/ml-glassbox-frontend/), an interactive dashboard for all of my ML models projects that I've deployed on Cloud distributed systems (GCP, Azure, AWS). -->
-- :computer: Committing to Norra Inc. as Software Developer to create hospital administrative app for tracking healthcare equipments.
 - Searching for 2026 Full-Time -- please contact me @[LinkedIn](https://www.linkedin.com/in/oscar-khaing/) if interested 
 
 
 
 Previous work:
+- :computer: Joined Norra Inc. as Software Engineer to develop hospital administrative app for tracking healthcare equipments.
 - :computer: In 4 days, shipped a Svelte landing website for a geo-bound AR sharing social media application, [aako.world](https://aako.world/), and fixed 15 bugs in frontend SwiftUI.
 - :computer: Contributing features to [IEEE-HKN honors society's portal](https://github.com/HKN-UCSD/hkn-portal) at UC San Diego with Svelte/Django
 - 🥗 [HAB Prediction Website](https://github.com/HKN-UCSD/HAB-Project-Website/): Full-stack deployment of a twice-weekly prediction site for monitoring harmful algal blooms, using FastAPI backend on Google Cloud Run with Cloud Scheduler for automation. (Team project via IEEE HKN)
