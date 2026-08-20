@@ -45,6 +45,7 @@ Fellowships:
 - 🤖 Selected as a Break Through Tech AI/ML Fellow (Cornell @ UCLA), where I developed real-world AI/ML projects with mentorship from PIMCO engineers.
 
 Competitive CS awards:
+- Top 6 Finalists among 70 teams at MongoDB Agentic Memory & Context Engineering Hackathon, Dec 2025
 - "Most Technically Impressive" and "3rd place" in Stempad CSES Hackathon @ UCSD, Feb 2025
 - "4th Place" in Jane Street Estimathon @ UCSD, 2024
 
