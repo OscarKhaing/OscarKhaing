@@ -21,14 +21,16 @@ Check out what I've worked on. Let me know if you'd like to collaborate on new i
 
 ---
 
-Current as of Jan 2026:
-<!-- - 🌨️ Developing [ML Glassbox](https://oscarkhaing.github.io/ml-glassbox-frontend/), an interactive dashboard for all of my ML models projects that I've deployed on Cloud distributed systems (GCP, Azure, AWS). -->
-- Searching for 2026 Full-Time -- please contact me @[LinkedIn](https://www.linkedin.com/in/oscar-khaing/) if interested 
+<!-- Current as of Jan 2026:
+- 🌨️ Developing [ML Glassbox](https://oscarkhaing.github.io/ml-glassbox-frontend/), an interactive dashboard for all of my ML models projects that I've deployed on Cloud distributed systems (GCP, Azure, AWS). 
+- Searching for 2026 Full-Time -- please contact me @[LinkedIn](https://www.linkedin.com/in/oscar-khaing/) if interested -->
 
 
 
 Previous work:
+- Earned 2nd place among 17 teams at Data Science Alliance's Build for Good Hackathon with [BellyUp](https://bellyup.onrender.com/), a logistics dispatch service that enables 
 - :computer: Joined Norra Inc. as Software Engineer to develop hospital administrative app for tracking healthcare equipments.
+- Earned a spot as top 6 finalist among 70 teams at MongoDB's Agentic Memory & Context Engineering Hackathon with [EchoStay](https://lnkd.in/p/gDqGaGGB): a semantic search engine for Airbnb listings built with a Retrieval Augmented Generation pipeline
 - :computer: In 4 days, shipped a Svelte landing website for a geo-bound AR sharing social media application, [aako.world](https://aako.world/), and fixed 15 bugs in frontend SwiftUI.
 - :computer: Contributing features to [IEEE-HKN honors society's portal](https://github.com/HKN-UCSD/hkn-portal) at UC San Diego with Svelte/Django
 - 🥗 [HAB Prediction Website](https://github.com/HKN-UCSD/HAB-Project-Website/): Full-stack deployment of a twice-weekly prediction site for monitoring harmful algal blooms, using FastAPI backend on Google Cloud Run with Cloud Scheduler for automation. (Team project via IEEE HKN)
@@ -36,7 +38,7 @@ Previous work:
 - :speech_balloon: Hosting ML-related technical workshop events for fellow students
 - [VTABS Blackjack Agent](https://github.com/OscarKhaing/Gambler-Gambit): Reinforcement learning agent trained via Q-learning to play Vegas Triple Attack Blackjack Switch, optimizing betting and in-game actions using a decision network to maximize winnings and minimize busts under uncertainty; Python, Monte Carlo Simulation, Q-Learning.
 - [LingoLab Research Paper Reader](https://github.com/SithuSoe04/lingolab): Interactive Research Paper PDF Viewer that generates and stores definitions of difficult words for easier comprehension; React, Python, Firebase
-- **[Text-2-SQL Database Query Engine](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)**: Executes generated SQL from natural language questions and returning financial data from database; achieved significant resulting accuracy from testing and incorporating techniques from S.O.T.A. papers in Text-2-SQL research space; Python, FastAPI, Uvicorn, Streamlit, OpenAI API, MySQL
+- :computer: **[Text-2-SQL Database Query Engine](https://github.com/PIMCO1B-BTTAI/PIMCO-Text2SQL)**: Executes generated SQL from natural language questions and returning financial data from database; achieved significant resulting accuracy from testing and incorporating techniques from S.O.T.A. papers in Text-2-SQL research space; Python, FastAPI, Uvicorn, Streamlit, OpenAI API, MySQL
 - [BTTAI Fellowship Models & Learning](https://github.com/OscarKhaing/BreakThruTechUCLA): Collection of machine learning projects, notebooks, and deployment-ready pipelines built during the Break Through Tech AI/ML Fellowship, including full life-cycle projects in model explainability, data engineering, and data science.
 - [Matchmaker](https://github.com/s-fereidooni/CSE151A_matchmaker): Machine Learning model with simple webpage UI that predicts compatibility between 2 participants using textual context.
 - [Successorator App](https://github.com/CSE-110-Winter-2024/project-team-12): To-do List App; Android Studio and SQLite
@@ -45,6 +47,7 @@ Fellowships:
 - 🤖 Selected as a Break Through Tech AI/ML Fellow (Cornell @ UCLA), where I developed real-world AI/ML projects with mentorship from PIMCO engineers.
 
 Competitive CS awards:
+- 2nd Place among 17 teams at Data Science Alliance's Build For Good Hackathon, Aug 2026 
 - Top 6 Finalists among 70 teams at MongoDB Agentic Memory & Context Engineering Hackathon, Dec 2025
 - "Most Technically Impressive" and "3rd place" in Stempad CSES Hackathon @ UCSD, Feb 2025
 - "4th Place" in Jane Street Estimathon @ UCSD, 2024
