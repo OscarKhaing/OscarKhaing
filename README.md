@@ -31,7 +31,7 @@ Previous work:
 - Earned 2nd place among 17 teams at Data Science Alliance's Build for Good Hackathon with [BellyUp](https://bellyup.onrender.com/), a logistics dispatch service that enables 
 - :computer: Joined Norra Inc. as Software Engineer to develop hospital administrative app for tracking healthcare equipments.
 - Earned a spot as top 6 finalist among 70 teams at MongoDB's Agentic Memory & Context Engineering Hackathon with [EchoStay](https://lnkd.in/p/gDqGaGGB): a semantic search engine for Airbnb listings built with a Retrieval Augmented Generation pipeline
-- :computer: In 4 days, shipped a Svelte landing website for a geo-bound AR sharing social media application, [aako.world](https://aako.world/), and fixed 15 bugs in frontend SwiftUI.
+- :computer: In 3 days, shipped a Svelte landing website for a geo-bound AR sharing social media application, [aako.world](https://aako.world/), and fixed 15 bugs in frontend SwiftUI.
 - :computer: Contributing features to [IEEE-HKN honors society's portal](https://github.com/HKN-UCSD/hkn-portal) at UC San Diego with Svelte/Django
 - 🥗 [HAB Prediction Website](https://github.com/HKN-UCSD/HAB-Project-Website/): Full-stack deployment of a twice-weekly prediction site for monitoring harmful algal blooms, using FastAPI backend on Google Cloud Run with Cloud Scheduler for automation. (Team project via IEEE HKN)
 - :computer: Contributing features to [Computer Science and Engineering Society's portal](https://github.com/CSES-UCSD/cses_webdev) at UC San Diego with React/MangoDB
