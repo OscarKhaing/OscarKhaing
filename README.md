@@ -28,7 +28,7 @@ Check out what I've worked on. Let me know if you'd like to collaborate on new i
 
 
 Previous work:
-- Earned 2nd place among 17 teams at Data Science Alliance's Build for Good Hackathon with [BellyUp](https://bellyup.onrender.com/), a logistics dispatch service that enables 
+- Earned 2nd place among 17 teams at Data Science Alliance's Build for Good Hackathon with [BellyUp](https://bellyup.onrender.com/), a logistics dispatch service for food recovery. 
 - :computer: Joined Norra Inc. as Software Engineer to develop hospital administrative app for tracking healthcare equipments.
 - Earned a spot as top 6 finalist among 70 teams at MongoDB's Agentic Memory & Context Engineering Hackathon with [EchoStay](https://lnkd.in/p/gDqGaGGB): a semantic search engine for Airbnb listings built with a Retrieval Augmented Generation pipeline
 - :computer: In 3 days, shipped a Svelte landing website for a geo-bound AR sharing social media application, [aako.world](https://aako.world/), and fixed 15 bugs in frontend SwiftUI.
